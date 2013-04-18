@@ -61,6 +61,7 @@ If you want to play with the LinkedIn api without using the gem, have a look at 
 * Update and correct test suite
 * Change to Faraday for authentication
 * Implement Messaging APIs
+* Implement Support for Member Permissions
 
 ## Note on Patches/Pull Requests
 
